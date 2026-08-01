@@ -22,6 +22,8 @@ This repository tracks, compares, and visualizes the financial scale of the trad
 
 ## 📈 Market Capitalization Comparison Table
 
+These are marketcaps as of mid 2026
+
 | **MAAMA Group** | **Market Cap** | **BATMANS Group** | **Market Cap** |
 | :--- | :--- | :--- | :--- |
 | **Apple** | ~\$4.89 Trillion | **Nvidia** | ~\$5.01 Trillion |
@@ -29,10 +31,10 @@ This repository tracks, compares, and visualizes the financial scale of the trad
 | **Microsoft** | ~\$2.84 Trillion | **Tesla** | ~\$1.24 Trillion |
 | **Amazon** | ~\$2.50 Trillion | **Samsung** | ~\$1.12 Trillion |
 | **Meta Platforms** | ~\$1.51 Trillion | **Micron Technology** | ~\$1.04 Trillion |
-| | | **SK Hynix** | ~\$856 Billion |
+| **Netflix**|  $298.59 Billion | **SK Hynix** | ~\$856 Billion |
 | | | **AMD** | ~\$851 Billion |
 | | | **ASML** | ~\$675 Billion |
-| **TOTAL** | **~\$15.64 Trillion** | **TOTAL** | **~\$12.61 Trillion** |
+| **TOTAL** | **~\$15.94 Trillion** | **TOTAL** | **~\$12.61 Trillion** |
 
 ---
 
@@ -43,6 +45,8 @@ This repository tracks, compares, and visualizes the financial scale of the trad
 * **A**lphabet (GOOGL)
 * **M**eta Platforms (META)
 * **A**mazon (AMZN)
+
+## Also refered to as FAANG sometimes to include Netflix.
 
 ## ⚡ What is BATMANSS?
 **BATMANSS** represents the critical hardware, semiconductor, and automotive companies driving the AI revolution, chip fabrication, and clean energy:
