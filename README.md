@@ -46,7 +46,7 @@ These are marketcaps as of mid 2026
 * **M**eta Platforms (META)
 * **A**mazon (AMZN)
 
-## Also refered to as FAANG sometimes to include Netflix.
+> Also refered to as FAANG sometimes to include Netflix.
 
 ## ⚡ What is BATMANSS?
 **BATMANSS** represents the critical hardware, semiconductor, and automotive companies driving the AI revolution, chip fabrication, and clean energy:
