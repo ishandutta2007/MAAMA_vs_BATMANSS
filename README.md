@@ -1,6 +1,14 @@
-# MAAMA_vs_BATMANSS
+# MAAMA vs BATMANSS: Tech Giants Market Cap Comparison
 
+<a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a><a href="https://github.com/ishandutta2007/MAAMA_vs_BATMANSS/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/MAAMA_vs_BATMANSS?style=flat-square" alt="Stars"/></a><a href="https://github.com/ishandutta2007/MAAMA_vs_BATMANSS/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/MAAMA_vs_BATMANSS?style=flat-square" alt="Issues"/></a><a href="https://github.com/ishandutta2007/MAAMA_vs_BATMANSS/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/MAAMA_vs_BATMANSS?style=flat-square" alt="Forks"/></a><a href="https://github.com/ishandutta2007/MAAMA_vs_BATMANSS/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/MAAMA_vs_BATMANSS?style=flat-square" alt="License"/></a>
 
+A real-time comparison of the total market capitalization between two major cohorts of technology giants: **MAAMA** (Microsoft, Apple, Alphabet, Amazon, Meta) vs. **BATMANSS** (Broadcom, AMD, Tesla, Micron, ASML, Nvidia, Samsung, SK Hynix).
+
+This repository tracks, compares, and visualizes the financial scale of the traditional consumer tech/software giants against the rising semiconductor, AI hardware, and automotive powerhouses.
+
+---
+
+## Market Capitalization Comparison Table
 
 | **MAAMA Group** | **Market Cap** | **BATMANS Group** | **Market Cap** |
 | :--- | :--- | :--- | :--- |
@@ -14,3 +22,31 @@
 | | | **ASML** | ~\$675 Billion |
 | **TOTAL** | **~\$15.64 Trillion** | **TOTAL** | **~\$12.61 Trillion** |
 
+---
+
+## What is MAAMA?
+**MAAMA** represents the leading mega-cap tech companies dominating consumer services, cloud hosting, software, and advertising:
+* **M**icrosoft (MSFT)
+* **A**pple (AAPL)
+* **A**lphabet (GOOGL)
+* **M**eta Platforms (META)
+* **A**mazon (AMZN)
+
+## What is BATMANSS?
+**BATMANSS** represents the critical hardware, semiconductor, and automotive companies driving the AI revolution, chip fabrication, and clean energy:
+* **B**roadcom (AVGO)
+* **A**MD (AMD)
+* **T**esla (TSLA)
+* **M**icron Technology (MU)
+* **A**SML (ASML)
+* **N**vidia (NVDA)
+* **S**amsung Electronics (SSNLF)
+* **S**K Hynix
+
+---
+
+## Contributing
+Contributions, issue reports, and updates to the market cap figures are welcome! Please check [CONTRIBUTING.md](file:///C:/Users/ishan/Documents/Projects/MAAMA_vs_BATMANSS/CONTRIBUTING.md) for guidelines.
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](file:///C:/Users/ishan/Documents/Projects/MAAMA_vs_BATMANSS/LICENSE) file for details.
