@@ -1,6 +1,18 @@
-# MAAMA vs BATMANSS: Tech Giants Market Cap Comparison
+# 📊 MAAMA vs BATMANSS: Tech Giants Market Cap Comparison
 
-<a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a><a href="https://github.com/ishandutta2007/MAAMA_vs_BATMANSS/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/MAAMA_vs_BATMANSS?style=flat-square" alt="Stars"/></a><a href="https://github.com/ishandutta2007/MAAMA_vs_BATMANSS/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/MAAMA_vs_BATMANSS?style=flat-square" alt="Issues"/></a><a href="https://github.com/ishandutta2007/MAAMA_vs_BATMANSS/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/MAAMA_vs_BATMANSS?style=flat-square" alt="Forks"/></a><a href="https://github.com/ishandutta2007/MAAMA_vs_BATMANSS/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/MAAMA_vs_BATMANSS?style=flat-square" alt="License"/></a><a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+<p align="center">
+  <img src="./assets/banner.svg" alt="MAAMA vs BATMANSS Banner" width="100%" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
+  <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://github.com/ishandutta2007/MAAMA_vs_BATMANSS/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/MAAMA_vs_BATMANSS?style=flat-square" alt="Stars"/></a>
+  <a href="https://github.com/ishandutta2007/MAAMA_vs_BATMANSS/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/MAAMA_vs_BATMANSS?style=flat-square" alt="Issues"/></a>
+  <a href="https://github.com/ishandutta2007/MAAMA_vs_BATMANSS/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/MAAMA_vs_BATMANSS?style=flat-square" alt="Forks"/></a>
+  <a href="https://github.com/ishandutta2007/MAAMA_vs_BATMANSS/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/MAAMA_vs_BATMANSS?style=flat-square" alt="License"/></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+</p>
 
 A real-time comparison of the total market capitalization between two major cohorts of technology giants: **MAAMA** (Microsoft, Apple, Alphabet, Amazon, Meta) vs. **BATMANSS** (Broadcom, AMD, Tesla, Micron, ASML, Nvidia, Samsung, SK Hynix).
 
@@ -8,7 +20,7 @@ This repository tracks, compares, and visualizes the financial scale of the trad
 
 ---
 
-## Market Capitalization Comparison Table
+## 📈 Market Capitalization Comparison Table
 
 | **MAAMA Group** | **Market Cap** | **BATMANS Group** | **Market Cap** |
 | :--- | :--- | :--- | :--- |
@@ -24,7 +36,7 @@ This repository tracks, compares, and visualizes the financial scale of the trad
 
 ---
 
-## What is MAAMA?
+## 💡 What is MAAMA?
 **MAAMA** represents the leading mega-cap tech companies dominating consumer services, cloud hosting, software, and advertising:
 * **M**icrosoft (MSFT)
 * **A**pple (AAPL)
@@ -32,7 +44,7 @@ This repository tracks, compares, and visualizes the financial scale of the trad
 * **M**eta Platforms (META)
 * **A**mazon (AMZN)
 
-## What is BATMANSS?
+## ⚡ What is BATMANSS?
 **BATMANSS** represents the critical hardware, semiconductor, and automotive companies driving the AI revolution, chip fabrication, and clean energy:
 * **B**roadcom (AVGO)
 * **A**MD (AMD)
@@ -45,13 +57,13 @@ This repository tracks, compares, and visualizes the financial scale of the trad
 
 ---
 
-## Contributing
+## 🤝 Contributing
 Contributions, issue reports, and updates to the market cap figures are welcome! Please check [CONTRIBUTING.md](file:///C:/Users/ishan/Documents/Projects/MAAMA_vs_BATMANSS/CONTRIBUTING.md) for guidelines.
 
-## License
+## 📄 License
 This project is licensed under the MIT License - see the [LICENSE](file:///C:/Users/ishan/Documents/Projects/MAAMA_vs_BATMANSS/LICENSE) file for details.
 
-##  Star History
+## 🌟 Star History
 <div align="center">
 <a href="https://www.star-history.com/?repos=ishandutta2007%2FMAAMA_vs_BATMANSS&type=date&legend=bottom-right">
 <picture>
