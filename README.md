@@ -40,6 +40,8 @@ These are marketcaps comparing mid 2020 and mid 2026:
   <img src="./assets/market_cap_comparison.png" alt="MAAMA vs BATMANSS Market Capitalization Growth" width="100%" />
 </p>
 
+**As you can see MAAMA was 6x of BATMANSS 6 years back but now in 2026 are of similar size**
+
 ---
 
 ## 💡 What is MAAMA?
