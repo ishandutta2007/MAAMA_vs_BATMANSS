@@ -36,6 +36,10 @@ These are marketcaps comparing mid 2020 and mid 2026:
 | | | | **ASML** | ~\$152.4 Billion | ~\$675 Billion |
 | **TOTAL** | **~\$6.25 Trillion** | **~\$15.94 Trillion** | **TOTAL** | **~\$1.17 Trillion** | **~\$12.61 Trillion** |
 
+<p align="center">
+  <img src="./assets/market_cap_comparison.png" alt="MAAMA vs BATMANSS Market Capitalization Growth" width="100%" />
+</p>
+
 ---
 
 ## 💡 What is MAAMA?
