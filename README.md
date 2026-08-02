@@ -22,19 +22,19 @@ This repository tracks, compares, and visualizes the financial scale of the trad
 
 ## 📈 Market Capitalization Comparison Table
 
-These are marketcaps as of mid 2026
+These are marketcaps comparing mid 2020 and mid 2026:
 
-| **MAAMA Group** | **Market Cap** | **BATMANS Group** | **Market Cap** |
-| :--- | :--- | :--- | :--- |
-| **Apple** | ~\$4.89 Trillion | **Nvidia** | ~\$5.01 Trillion |
-| **Alphabet** | ~\$3.90 Trillion | **Broadcom** | ~\$1.82 Trillion |
-| **Microsoft** | ~\$2.84 Trillion | **Tesla** | ~\$1.24 Trillion |
-| **Amazon** | ~\$2.50 Trillion | **Samsung** | ~\$1.12 Trillion |
-| **Meta Platforms** | ~\$1.51 Trillion | **Micron Technology** | ~\$1.04 Trillion |
-| **Netflix**|  $298.59 Billion | **SK Hynix** | ~\$856 Billion |
-| | | **AMD** | ~\$851 Billion |
-| | | **ASML** | ~\$675 Billion |
-| **TOTAL** | **~\$15.94 Trillion** | **TOTAL** | **~\$12.61 Trillion** |
+| **MAAMA Group** | **Market Cap (Mid 2020)** | **Market Cap (Mid 2026)** | **BATMANS Group** | **Market Cap (Mid 2020)** | **Market Cap (Mid 2026)** |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **Apple** | ~\$1.57 Trillion | ~\$4.89 Trillion | **Nvidia** | ~\$235.2 Billion | ~\$5.01 Trillion |
+| **Alphabet** | ~\$970 Billion | ~\$3.90 Trillion | **Broadcom** | ~\$123 Billion | ~\$1.82 Trillion |
+| **Microsoft** | ~\$1.47 Trillion | ~\$2.84 Trillion | **Tesla** | ~\$223.7 Billion | ~\$1.24 Trillion |
+| **Amazon** | ~\$1.37 Trillion | ~\$2.50 Trillion | **Samsung** | ~\$264 Billion | ~\$1.12 Trillion |
+| **Meta Platforms** | ~\$670 Billion | ~\$1.51 Trillion | **Micron Technology** | ~\$55.7 Billion | ~\$1.04 Trillion |
+| **Netflix** | ~\$200 Billion | \$298.59 Billion | **SK Hynix** | ~\$50 Billion | ~\$856 Billion |
+| | | | **AMD** | ~\$61.1 Billion | ~\$851 Billion |
+| | | | **ASML** | ~\$152.4 Billion | ~\$675 Billion |
+| **TOTAL** | **~\$6.25 Trillion** | **~\$15.94 Trillion** | **TOTAL** | **~\$1.17 Trillion** | **~\$12.61 Trillion** |
 
 ---
 
